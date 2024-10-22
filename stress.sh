@@ -1,5 +1,7 @@
 #!/bin/sh
 
+echo blah
+
 # Check if RUNTIME is set, otherwise default to 1
 : "${RUNTIME:=1}"
 
